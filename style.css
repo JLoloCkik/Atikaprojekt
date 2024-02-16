@@ -24,12 +24,14 @@ div {
 .jobbra_balra{
   cursor: col-resize
 }
-terem {
+.terem {
   cursor: cell ;
 }
 .vissza{
   cursor: not-allowed;
-
+}
+.ajtó{
+  cursor: alias;
 }
 
 
