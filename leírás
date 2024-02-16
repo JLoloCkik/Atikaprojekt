@@ -2,7 +2,7 @@
 Ezek class ba menek:
 
 előre = legtöbbször a folyosókon a közlekedés
-jobbra_balra = ezzel megyünk az ajtóktól a folyosóra
+jobbra_balra = másik ajtóra ugrás
 terem = ezzel jutunk el az ajtóra kattintva a teremhez
 vissza = értelem szrűen visza megyünk a folyosóhoz vagy ha terembe voltunk akkor az ajtóhoz
 ajtó = ezzel jutunk a folyosóról az ajtóhoz
