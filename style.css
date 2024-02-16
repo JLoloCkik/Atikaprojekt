@@ -17,5 +17,20 @@ div {
   text-align: center;
   
 }
+.előre{
+  cursor: pointer !;
+   
+}
+.jobbra_balra{
+  cursor: col-resize
+}
+terem {
+  cursor: cell ;
+}
+.vissza{
+  cursor: not-allowed;
+
+}
+
 
 
