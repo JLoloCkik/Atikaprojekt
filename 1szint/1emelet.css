@@ -1,0 +1,39 @@
+body {
+    background-color: blanchedalmond;
+   
+  }
+  h1 {
+    font-size: 3em;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: black;
+    border-radius: 10px;
+  
+  }
+  div {
+    text-align: center;
+    
+  }
+  .előre{
+    cursor: pointer !;
+     
+  }
+  .jobbra_balra{
+    cursor: col-resize
+  }
+  .terem {
+    cursor: cell ;
+  }
+  .vissza{
+    cursor: not-allowed;
+  }
+  .ajtó{
+    cursor: alias;
+  }
+  
+  
+  
+  
